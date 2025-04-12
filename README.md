@@ -34,8 +34,3 @@ python train/train.py
 python evaluate/evaluate.py
 ```
 
-## 📜 License
-
-MIT License
-# fake-news
-# fake-news
